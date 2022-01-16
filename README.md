@@ -1,5 +1,6 @@
 # Music-Enabled-Running
-A git repository for ADS Minor Project - Music Enabled Running - at Fontys University of Applied Sciences 
+### A git repository for ADS Minor Project - Music Enabled Running - at Fontys University of Applied Sciences 
+![Naamloos_ontwerp](https://user-images.githubusercontent.com/56435256/149590624-5f5041dd-30ee-4a3c-ab78-4a4f17dc9d84.png)
 # Goal
 The goal of this project is to find if there is a correlation between running performance and music. 
 
@@ -23,3 +24,4 @@ Exploring the data with the use of statistical analysis and correaltion matrices
 ## Experiments 
 Use of different Machine Learning methods and more in order to find and prove a correlation between Running and Music.
 ### Music - SOM [testing].ipynb 
+
