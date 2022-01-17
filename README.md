@@ -19,6 +19,8 @@ Use of the KNN - means method as a way to filter bad data records. By removing o
 ### TestPerson2 - Data Preparation
 ### Correlation Analysis
 Analysis in order to prove a correletion between the symetry movement and music features. Data sets used subject_1_pod_symmetry_per_step.csv , subject_2_pod_symmetry_per_step.csv  
+### Simple Plot and Map - TP 2 
+The categorization of the steps was done and the map of the route of the running session from test person 2. Datasets used testperson2.csv (cleaned version), phone_location.csv, music.csv 
 ## Exploratory Data Analysis (EDA)
 Exploring the data with the use of statistical analysis and correaltion matrices for both Test Runner I and II.
 ### TestPerson1 - EDA Music Enabled Running (FR Corp).ipynb
@@ -32,6 +34,8 @@ Model that can try to predict impact symmetry using music features. Also used to
 ### Modeling Experiments - Music Version & Modeling Experiments - Pods Version
 Experimenting with SOM (Self Organizing Maps) in order to prove a correlation between running data and music data. Data sets used sub_1_pod_symmetry_per_song.csv,
 music_features_tracks.csv, combined_v3.csv
+### Self Organizing Map - TP 2 
+Experimenting with SOM (Self Organizing Map) in order to prove a correlation between running data and music data. Datasets used testperson2.csv (cleaned version),  music.csv
 ## General 
 Conference Poster Graphics - the overall summary of the project in graphics.  
 
