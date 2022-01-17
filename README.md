@@ -27,7 +27,6 @@ Exploring the data with the use of statistical analysis and correaltion matrices
 Use of several outlier techqniques and a box plot, in order to remove outliers and clean the data. Data sets used subject_1_pod_symmetry_per_step.csv, subject_2_pod_symmetry_per_step.csv  
 ## Experiments & Modeling
 Use of different Machine Learning methods and more in order to find and prove a correlation between Running and Music.
-### Music - SOM [testing]
 ### XGB - Music
 Model that can try to predict impact symmetry using music features. Also used to prove a correlation between impact_sa and music features with the use of RSME & r2.Data sets used subject_1_pod_symmetry_per_step.csv, subject_2_pod_symmetry_per_step.csv   
 ### Modeling Experiments - Music Version & Modeling Experiments - Pods Version
